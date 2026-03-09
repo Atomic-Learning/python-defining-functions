@@ -1,0 +1,21 @@
+{
+    "title": "Python: Defining Functions",
+    "slug": "python-defining-functions",
+    "description": "Define Python functions using def, parameter lists, indentation, and return values.",
+    "authors": [
+        "chris-cooling"
+    ],
+    "tags": [
+        "python"
+    ],
+    "duration": 3,
+    "prerequisites": [
+        "programming-defining-functions",
+        "programming-calling-functions",
+        "python-comments",
+        "python-variables"
+    ],
+    "related": [
+        "python-keyword-and-default-arguments"
+    ]
+}
